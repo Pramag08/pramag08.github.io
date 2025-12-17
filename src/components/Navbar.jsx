@@ -64,7 +64,7 @@ const Navbar = () => {
           </ul>
           
           <a 
-            href="/portfolio/resume.pdf" 
+            href="/resume.pdf" 
             target="_blank" 
             rel="noopener noreferrer"
             className='ai-button'
