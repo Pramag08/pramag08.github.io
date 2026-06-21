@@ -2,18 +2,9 @@
 
 A modern, interactive 3D portfolio website built with React, Three.js, and Tailwind CSS. Features immersive 3D graphics, smooth animations, and a responsive design showcasing my projects and skills.
 
-## 🚀 Live Demo
 
 Visit the live site: [https://pramag08.github.io/](https://pramag08.github.io/)
 
-## ✨ Features
-
-- **3D Graphics**: Interactive 3D models and animations using Three.js
-- **Responsive Design**: Fully responsive across all devices
-- **Project Showcase**: 6 featured projects with live demos and source code links
-- **Contact Form**: Integrated EmailJS for direct communication
-- **Smooth Animations**: Framer Motion for fluid transitions
-- **Modern UI**: Clean design with Tailwind CSS
 
 ## 🛠️ Tech Stack
 
